@@ -112,7 +112,7 @@ else:
             placeholder="Enter the customer support ticket..."
         )
 
-        if st.button("Get AI Decision"):
+        if st.button("Submit"):
 
             if not message.strip():
                 st.warning("Please enter a support ticket.")
