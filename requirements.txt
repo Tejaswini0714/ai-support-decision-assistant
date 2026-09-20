@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+streamlit
+requests
+python-dotenv
+python-jose[cryptography]
+passlib[bcrypt]
+bcrypt==4.0.1
+sqlalchemy
+pydantic
+pydantic-settings
+google-genai
+numpy
+pytest
+httpx
